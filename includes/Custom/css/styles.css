@@ -1,0 +1,23 @@
+#card{
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+
+#card #table #tbl_th{
+    background-color:rgba(34, 46, 60);
+    color: beige;
+    text-align: center;
+    font-weight: 500;
+
+}
+
+#card #card-body #table_field #tbl_th{
+    background-color:rgba(34, 46, 60);
+    color: beige;
+    text-align: center;
+   
+
+}
+
+

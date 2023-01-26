@@ -1,0 +1,42 @@
+
+.accordion{
+    background: none;
+}
+.accordion-header{
+    font-size: 14px;
+    margin-left: 12px;
+}
+
+.accordion-button{
+    color:rgba(184, 189, 194);
+    background: none;
+    border: none;
+    padding: 10px;
+    margin-right: 18px;
+}
+
+.accordion .accordion-body ul li {
+    
+ list-style: none;
+ margin-left: 40px;
+ margin-bottom: 18px;
+ font-weight: 150;
+
+   
+}
+
+
+.accordion .accordion-body a {
+ background:none;
+    text-decoration: none;
+    color:rgba(184, 189, 194);
+    font-size: 14px;
+   
+}
+
+.accordion-button span {
+font-size: 15px;
+padding-left: 9px;
+margin-right: 13px;
+}
+

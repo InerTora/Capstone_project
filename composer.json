@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.5",
+        "kickstartph/semaphore-client": "*",
+        "mpdf/mpdf": "^8.1"
+    }
+}

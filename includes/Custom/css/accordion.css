@@ -1,0 +1,170 @@
+.accordion{
+    cursor: pointer;
+}
+.accordion .accordion-item{
+    background: rgba(34, 46, 60) ;
+    margin-left: 5px;
+    
+}
+.accordion .accordion-item .accordion-button{
+    background: rgba(34, 46, 60) ;
+ color:rgba(184, 189, 194);
+    
+}
+.accordion .accordion-item .accordion-button span{
+   margin-right: 10px;
+    
+}
+.accordion .accordion-item .accordion-body ul{
+list-style: none;
+}
+
+.accordion .accordion-item .accordion-body ul a{
+    text-decoration: none;
+    color:rgba(184, 189, 194);
+    font-size: 15px;
+}
+.accordion .accordion-button:hover{
+    color: white !important;
+   }
+.accordion .accordion-item .accordion-body li a:hover{
+ color: white !important;
+}
+
+.drop{
+font-size: 15px;
+width: 300px;
+}
+
+.add .bt{
+    font-size: 15px;
+    width: 130px;
+    border-radius: 5px;
+    text-transform:none; 
+    background-color: #277BC0;
+    cursor: pointer;
+}
+
+.add .btbranch{
+    font-size: 15px;
+    width: 150px;
+    border-radius: 5px;
+    text-transform:none; 
+    background-color: #277BC0;
+    cursor: pointer;
+}
+
+.add .bt span{
+padding-right: 5px;
+}
+.add .btbranch span{
+    padding-right: 3px;
+    }
+    .add .btsupplier span{
+        padding-right: 2px;
+        }
+
+.add .bt:active {
+  background-color: #006AE8;
+}
+
+.add .bt:hover {
+  background-color: #1C84FF;
+}
+
+.search span{
+    color: black;
+  font-weight: 600;
+}
+
+/*------ACTION---------*/
+.action a{
+    text-align: center;
+    margin-left: 10px;
+    padding: 4px;
+}
+.action a i{
+    font-size: 20px;
+    text-align: center;
+}
+.txt{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/*------Form---------*/
+
+.txt-form .col-form-label{
+    color: black;
+    margin-left: 2px;
+}
+.txt-form .mb-2 .branch{
+
+ margin-right: 10px;
+}
+.txt-form .mb-2 .position{
+ 
+    margin-left: 48px;
+   
+   
+}
+
+.txt-form .mb-2 .fname{
+ 
+    margin-left: 60px;
+}
+.txt-form .mb-2 .password{
+ 
+    margin-left: 30px;
+}
+
+
+.txt-form .mb-2 .username{
+ 
+    margin-left: 22px;
+    padding-left: 10px;
+    width: 300px;
+}
+.txt-form .mb-2 .conpassword{
+ 
+  
+   margin-left: 45px;
+    padding-left: 10px;
+    width: 300px;
+}
+
+
+
+/*Dashboard Style*/
+/*-------------Main Content-----------
+.tbl:hover{
+   
+}
+---------*/
+.card1:first-child{
+    border-left: 7px solid #97D2EC;
+    height: 15px;
+}
+
+
+.tbl{
+height: 150px;
+}
+
+/*button for user_create*/
+.card-footer .add{
+    background-color: rgb(2, 187, 2);
+    color: rgb(255, 255, 255);
+    margin-top: 12px;
+    font-size: 15px;
+    width: 100px;
+    height: 36px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.card-footer .add:hover{
+    background-color: rgb(1, 137, 1);
+
+}
